@@ -8,7 +8,7 @@ The objective is to demonstrate practical skills in data cleaning, exploration, 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Load and explore student performance data
 - Perform data quality checks and preprocessing
 - Analyze descriptive statistics
@@ -17,7 +17,7 @@ The objective is to demonstrate practical skills in data cleaning, exploration, 
 
 ---
 
-## 🗂 Dataset Information
+##  Dataset Information
 - **Type:** Student academic performance data
 - **Format:** CSV
 - **Content Includes:**
@@ -29,7 +29,7 @@ The dataset is used strictly for educational and analytical purposes.
 
 ---
 
-## 🛠 Tools & Libraries Used
+##  Tools & Libraries Used
 - Python  
 - Pandas  
 - NumPy  
@@ -40,7 +40,7 @@ The dataset is used strictly for educational and analytical purposes.
 
 ---
 
-## 🔍 Analysis Workflow
+##  Analysis Workflow
 1. Environment setup and data loading  
 2. Initial data inspection and structure analysis  
 3. Data quality checks (missing values, consistency)  
@@ -50,7 +50,7 @@ The dataset is used strictly for educational and analytical purposes.
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Academic performance shows variation across different student attributes
 - Certain factors display stronger correlation with performance outcomes
 - Visual analysis helps identify meaningful patterns and trends
@@ -59,7 +59,7 @@ The dataset is used strictly for educational and analytical purposes.
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/student-performance-data-analysis.git
