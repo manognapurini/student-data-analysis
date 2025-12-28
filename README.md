@@ -1,4 +1,4 @@
-# student-data-analysis
+
 Student Performance Data Analysis
 Project Overview
 This comprehensive analysis examines student performance data to identify key factors influencing academic success. The dataset contains information about student demographics, study habits, attendance, parental background, and academic scores across multiple subjects.
