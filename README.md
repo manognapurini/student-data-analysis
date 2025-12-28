@@ -1,6 +1,6 @@
 # Student Performance Data Analysis
 
-## 📖 Project Overview
+##  Project Overview
 This project analyzes student performance data to identify factors influencing academic outcomes.  
 Using Python-based data analysis techniques, the project explores patterns, relationships, and trends within the dataset through statistical analysis and visualization.
 
